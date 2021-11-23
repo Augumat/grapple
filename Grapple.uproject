@@ -2,21 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.26",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "RawInput",
-			"Enabled": true
-		},
-		{
-			"Name": "WM_InputManager_Plugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7b2182710b35428ca9a79ad71959414c"
-		},
-		{
-			"Name": "UINavigation",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4601ff4d12fc4ed1a7418e1585374a48"
-		}
-	]
+	"Description": ""
 }
